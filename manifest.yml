@@ -1,0 +1,7 @@
+---
+applications:
+- name: Helloworld
+  random-route: true
+  memory: 1G
+  path: target/TestLabOne-0.0.2-SNAPSHOT.jar
+ 
