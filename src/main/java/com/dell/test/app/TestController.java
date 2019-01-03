@@ -14,7 +14,7 @@ public class TestController {
 	@RequestMapping("/")
     @ResponseBody
     String hello() {
-        return "Just checking if everything works fine";
+        return "Hi i am trying to do complete cicd demo";
     }
 }
 
